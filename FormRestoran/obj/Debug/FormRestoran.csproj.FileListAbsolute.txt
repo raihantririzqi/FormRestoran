@@ -1,0 +1,17 @@
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\bin\Debug\FormRestoran.exe.config
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\bin\Debug\FormRestoran.exe
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\bin\Debug\FormRestoran.pdb
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.csproj.AssemblyReference.cache
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Properties.Resources.resources
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.csproj.GenerateResource.cache
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.csproj.CoreCompileInputs.cache
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.exe
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.pdb
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\bin\Debug\MySql.Data.dll
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Home.resources
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.csproj.CopyComplete
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Login.resources
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Pesan.resources
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Pesanan.resources
+C:\Users\Xzura\Documents\Desktop App\FormRestoran\FormRestoran\obj\Debug\FormRestoran.Pembayaran.resources
